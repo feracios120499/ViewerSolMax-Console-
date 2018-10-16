@@ -1,0 +1,6 @@
+C:\Users\Feracios\Documents\GitHub\ADO.NET\ViewerSolMax(Console)\ViewerSolMax(Console)\bin\Debug\ViewerSolMax(Console).exe.config
+C:\Users\Feracios\Documents\GitHub\ADO.NET\ViewerSolMax(Console)\ViewerSolMax(Console)\bin\Debug\ViewerSolMax(Console).exe
+C:\Users\Feracios\Documents\GitHub\ADO.NET\ViewerSolMax(Console)\ViewerSolMax(Console)\bin\Debug\ViewerSolMax(Console).pdb
+C:\Users\Feracios\Documents\GitHub\ADO.NET\ViewerSolMax(Console)\ViewerSolMax(Console)\obj\Debug\ViewerSolMax(Console).csprojResolveAssemblyReference.cache
+C:\Users\Feracios\Documents\GitHub\ADO.NET\ViewerSolMax(Console)\ViewerSolMax(Console)\obj\Debug\ViewerSolMax(Console).exe
+C:\Users\Feracios\Documents\GitHub\ADO.NET\ViewerSolMax(Console)\ViewerSolMax(Console)\obj\Debug\ViewerSolMax(Console).pdb
